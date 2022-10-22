@@ -1,0 +1,26 @@
+-phone auth and just plug in User.PhoneNumber and get User.PhoneCarrier
+-remember me
+-cancel ride
+-animations
+-give feedback for errors like wrong email etc
+
+-filter search zip code (after 100 downloads)
+-only for @isd273.org students (after launch)
+
+
+[ ] Sign up fill in username email password #
+[ ] Sing in
+[ ] Request Ride fill in start end then send
+[ ] Go back and Browse Rides
+[ ] Filter fill in start end range
+[ ] Submit view all requests near the filled in start and end
+[ ] Select ride and bring new screen
+
+
+Send "(username of device) wants to pick you up. Accept ride?" to requester #
+Use API to check if response of requester is YES. If so, cancel ride AND send exchange # of device with # of requester. If NO, notify device they aren't allowed to pick them up.
+
+
+FROM: Divyesh Thirukonda
+SUBJECT: Edina Uber
+BODY: Hey, ______ has requested to pick you up. Their phone number is _____. Let them know whether you want to accept the ride or decline. Once they arrive, make sure to delete your ride request. Thank you for using Edina Uber!

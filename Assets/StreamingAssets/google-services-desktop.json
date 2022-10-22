@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1054359041243",
+    "firebase_url": "https://edina-uber-one-default-rtdb.firebaseio.com",
+    "project_id": "edina-uber-one",
+    "storage_bucket": "edina-uber-one.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054359041243:android:962b27a6d6b4102e1dc8fe",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.Dodgem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054359041243-44ldhv9jpfqm3d4gmpdiqtf39p52jid4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHYxUePK7ejDlWcKNCYa8isqlcqyD6Y8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054359041243-44ldhv9jpfqm3d4gmpdiqtf39p52jid4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
